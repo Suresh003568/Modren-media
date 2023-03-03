@@ -466,12 +466,12 @@
 		font-family: Roboto;
 	}
 	#wrap{
-		width: 100%;
+		width: 500px;
 		height: 5000px;
 		overflow: hidden;
 	}
 	#banner{
-		width: 500px;
+		width: 100%;
 		height: 300px;
 		position: relative;
 	}
