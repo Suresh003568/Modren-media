@@ -466,7 +466,7 @@
 		font-family: Roboto;
 	}
 	#wrap{
-		width: 500px;
+		width: 100%;
 		height: 5000px;
 		overflow: hidden;
 	}
@@ -535,10 +535,10 @@
 	margin-left:20px;
 }
 	#content{
-		width: 500px;
+		width: 100%;
 	}
 	#about{
-		width: 500px;
+		width: 100%;
 	}
 	.word 
 {
@@ -729,7 +729,7 @@
 	opacity: 100%;
 }	
 	#fooder{
-		width: 500px;
+		width: 100%;
 		
 	}
 	
